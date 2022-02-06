@@ -38,3 +38,18 @@ body {
   color: gray;
   margin-bottom: 25px;
 }
+
+.cellphone-icon {
+  margin-top: 25px;
+}
+
+.add-margin-bottom {
+  display: block;
+  margin-bottom: 50px;
+}
+
+.copyright {
+  margin: 20px;
+  text-align: right;
+  color: gray;
+}
